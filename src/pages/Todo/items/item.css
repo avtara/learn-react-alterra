@@ -1,0 +1,16 @@
+.done {
+    text-decoration: line-through;
+    padding: 10px;
+    border: 1px solid black;
+    width: 250px;;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.list {
+    padding: 10px;
+    border: 1px solid black;
+    width: 250px;
+    border-radius: 25px;
+    margin: 10px;
+}
